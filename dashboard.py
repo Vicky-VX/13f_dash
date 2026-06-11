@@ -1104,11 +1104,12 @@ RECOMMEND_STYLE = {
     "★    不建议":        ("background:#f9fafb; color:#9ca3af; border:1px solid #e5e7eb;",  "⚪"),
 }
 
-@st.cache_data(ttl=1800)
+@st.cache_data(ttl=300)
 def load_bt_fund_results() -> pd.DataFrame:
-    if _use_bt_csv():
+    csv_path = DATA_DIR / "bt_fund_results.csv"
+    if csv_path.exists():
         try:
-            df = pd.read_csv(DATA_DIR / "bt_fund_results.csv")
+            df = pd.read_csv(csv_path)
             return df.sort_values("end_alpha_1y", ascending=False, na_position="last")
         except Exception:
             return pd.DataFrame()
@@ -1122,11 +1123,12 @@ def load_bt_fund_results() -> pd.DataFrame:
     conn.close()
     return df
 
-@st.cache_data(ttl=1800)
+@st.cache_data(ttl=300)
 def load_bt_quarter_results(cik: str) -> pd.DataFrame:
-    if _use_bt_csv():
+    csv_path = DATA_DIR / "bt_quarter_results.csv"
+    if csv_path.exists():
         try:
-            df = pd.read_csv(DATA_DIR / "bt_quarter_results.csv")
+            df = pd.read_csv(csv_path)
             return df[df["cik"] == cik].sort_values("quarter")
         except Exception:
             return pd.DataFrame()
@@ -1144,7 +1146,8 @@ def load_bt_quarter_results(cik: str) -> pd.DataFrame:
 
 
 def tab_backtest():
-    if not BT_DB.exists() and not _use_bt_csv():
+    has_data = BT_DB.exists() or (DATA_DIR / "bt_fund_results.csv").exists()
+    if not has_data:
         st.info("backtest.db 不存在，请先运行：`python backtest.py --all`")
         return
 

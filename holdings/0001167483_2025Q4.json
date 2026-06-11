@@ -1,0 +1,552 @@
+{
+  "fund": "Tiger Global",
+  "cik": "0001167483",
+  "quarter": "2025Q4",
+  "period_end": "2025-12-31",
+  "filing_date": "2026-02-17",
+  "accession": "0000919574-26-001143",
+  "total_value_k": 29714313270,
+  "position_count": 54,
+  "holdings": [
+    {
+      "issuer": "ALPHABET INC",
+      "cusip": "02079K305",
+      "class": "CAP STK CL A",
+      "value_k": 3327628826,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 11.2
+    },
+    {
+      "issuer": "MICROSOFT CORP",
+      "cusip": "594918104",
+      "class": "COM",
+      "value_k": 2649148004,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 8.92
+    },
+    {
+      "issuer": "AMAZON COM INC",
+      "cusip": "023135106",
+      "class": "COM",
+      "value_k": 2310826501,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 7.78
+    },
+    {
+      "issuer": "NVIDIA CORPORATION",
+      "cusip": "67066G104",
+      "class": "COM",
+      "value_k": 2053691748,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 6.91
+    },
+    {
+      "issuer": "SEA LTD",
+      "cusip": "81141R100",
+      "class": "SPONSORD ADS",
+      "value_k": 1966598071,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 6.62
+    },
+    {
+      "issuer": "META PLATFORMS INC",
+      "cusip": "30303M102",
+      "class": "CL A",
+      "value_k": 1815653455,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 6.11
+    },
+    {
+      "issuer": "TAKE-TWO INTERACTIVE SOFTWAR",
+      "cusip": "874054109",
+      "class": "COM",
+      "value_k": 1495024714,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 5.03
+    },
+    {
+      "issuer": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "cusip": "874039100",
+      "class": "SPONSORED ADS",
+      "value_k": 1132134294,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.81
+    },
+    {
+      "issuer": "BROADCOM INC",
+      "cusip": "11135F101",
+      "class": "COM",
+      "value_k": 995250005,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.35
+    },
+    {
+      "issuer": "APOLLO GLOBAL MGMT INC",
+      "cusip": "03769M106",
+      "class": "COM",
+      "value_k": 898886641,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.03
+    },
+    {
+      "issuer": "REDDIT INC",
+      "cusip": "75734B100",
+      "class": "CL A",
+      "value_k": 883600741,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.97
+    },
+    {
+      "issuer": "APPLOVIN CORP",
+      "cusip": "03831W108",
+      "class": "COM CL A",
+      "value_k": 871238479,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.93
+    },
+    {
+      "issuer": "FLUTTER ENTMT PLC",
+      "cusip": "G3643J108",
+      "class": "SHS",
+      "value_k": 860921672,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.9
+    },
+    {
+      "issuer": "SPOTIFY TECHNOLOGY S A",
+      "cusip": "L8681T102",
+      "class": "SHS",
+      "value_k": 732543017,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.47
+    },
+    {
+      "issuer": "LAM RESEARCH CORP",
+      "cusip": "512807306",
+      "class": "COM NEW",
+      "value_k": 667677148,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.25
+    },
+    {
+      "issuer": "GE VERNOVA INC",
+      "cusip": "36828A101",
+      "class": "COM",
+      "value_k": 635919689,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.14
+    },
+    {
+      "issuer": "COUPANG INC",
+      "cusip": "22266T109",
+      "class": "CL A",
+      "value_k": 619644640,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.09
+    },
+    {
+      "issuer": "VEEVA SYS INC",
+      "cusip": "922475108",
+      "class": "CL A COM",
+      "value_k": 540328215,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.82
+    },
+    {
+      "issuer": "CORPAY INC",
+      "cusip": "219948106",
+      "class": "COM SHS",
+      "value_k": 527273296,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.77
+    },
+    {
+      "issuer": "GRAB HOLDINGS LIMITED",
+      "cusip": "G4124C109",
+      "class": "CLASS A ORD",
+      "value_k": 463689702,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.56
+    },
+    {
+      "issuer": "BLOCK INC",
+      "cusip": "852234103",
+      "class": "CL A",
+      "value_k": 414287436,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.39
+    },
+    {
+      "issuer": "ZILLOW GROUP INC",
+      "cusip": "98954M200",
+      "class": "CL C CAP STK",
+      "value_k": 413205607,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.39
+    },
+    {
+      "issuer": "CHIME FINL INC",
+      "cusip": "16935C109",
+      "class": "COM SHS CL A",
+      "value_k": 357225199,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.2
+    },
+    {
+      "issuer": "ZSCALER INC",
+      "cusip": "98980G102",
+      "class": "COM",
+      "value_k": 355320969,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.2
+    },
+    {
+      "issuer": "SERVICENOW INC",
+      "cusip": "81762P102",
+      "class": "COM",
+      "value_k": 325818279,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.1
+    },
+    {
+      "issuer": "LIBERTY MEDIA CORP DEL",
+      "cusip": "531229755",
+      "class": "COM LBTY ONE S C",
+      "value_k": 264203820,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.89
+    },
+    {
+      "issuer": "APPLIED MATLS INC",
+      "cusip": "038222105",
+      "class": "COM",
+      "value_k": 230057448,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.77
+    },
+    {
+      "issuer": "NETFLIX INC",
+      "cusip": "64110L106",
+      "class": "COM",
+      "value_k": 228680640,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.77
+    },
+    {
+      "issuer": "WORKDAY INC",
+      "cusip": "98138H101",
+      "class": "CL A",
+      "value_k": 214780000,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.72
+    },
+    {
+      "issuer": "WEALTHFRONT CORP",
+      "cusip": "947002101",
+      "class": "COM",
+      "value_k": 205981958,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.69
+    },
+    {
+      "issuer": "NU HLDGS LTD",
+      "cusip": "G6683N103",
+      "class": "ORD SHS CL A",
+      "value_k": 184684970,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.62
+    },
+    {
+      "issuer": "PROCORE TECHNOLOGIES INC",
+      "cusip": "74275K108",
+      "class": "COM",
+      "value_k": 170175230,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.57
+    },
+    {
+      "issuer": "COSTAR GROUP INC",
+      "cusip": "22160N109",
+      "class": "COM",
+      "value_k": 151902489,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.51
+    },
+    {
+      "issuer": "UNITEDHEALTH GROUP INC",
+      "cusip": "91324P102",
+      "class": "COM",
+      "value_k": 138713873,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.47
+    },
+    {
+      "issuer": "ELASTIC N V",
+      "cusip": "N14506104",
+      "class": "ORD SHS",
+      "value_k": 127546408,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.43
+    },
+    {
+      "issuer": "HINGE HEALTH INC",
+      "cusip": "433313103",
+      "class": "CL A",
+      "value_k": 83877134,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.28
+    },
+    {
+      "issuer": "SHERWIN WILLIAMS CO",
+      "cusip": "824348106",
+      "class": "COM",
+      "value_k": 83302604,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.28
+    },
+    {
+      "issuer": "ZILLOW GROUP INC",
+      "cusip": "98954M101",
+      "class": "CL A",
+      "value_k": 69849303,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.24
+    },
+    {
+      "issuer": "WEBULL CORP",
+      "cusip": "G9572D103",
+      "class": "ORD SHS",
+      "value_k": 52246544,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.18
+    },
+    {
+      "issuer": "ATRENEW INC",
+      "cusip": "00138L108",
+      "class": "SPONSORED ADS",
+      "value_k": 52105455,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.18
+    },
+    {
+      "issuer": "PONY AI INC",
+      "cusip": "732908108",
+      "class": "SPONSORED ADS",
+      "value_k": 42050000,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.14
+    },
+    {
+      "issuer": "CIRCLE INTERNET GROUP INC",
+      "cusip": "172573107",
+      "class": "COM CL A",
+      "value_k": 39650000,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.13
+    },
+    {
+      "issuer": "UBER TECHNOLOGIES INC",
+      "cusip": "90353T100",
+      "class": "COM",
+      "value_k": 12352754,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.04
+    },
+    {
+      "issuer": "JD.COM INC",
+      "cusip": "47215P106",
+      "class": "SPON ADS CL A",
+      "value_k": 9881668,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.03
+    },
+    {
+      "issuer": "NETSKOPE INC",
+      "cusip": "64119N608",
+      "class": "CL A",
+      "value_k": 8770000,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.03
+    },
+    {
+      "issuer": "FIGURE TECHNOLOGY SOLUTIO",
+      "cusip": "349381103",
+      "class": "COM CL A",
+      "value_k": 8168000,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.03
+    },
+    {
+      "issuer": "DOORDASH INC",
+      "cusip": "25809K105",
+      "class": "CL A",
+      "value_k": 5738324,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.02
+    },
+    {
+      "issuer": "KLARNA GROUP PLC",
+      "cusip": "G5279N105",
+      "class": "SHS",
+      "value_k": 5059250,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.02
+    },
+    {
+      "issuer": "BULLISH",
+      "cusip": "G16910120",
+      "class": "ORD SHS",
+      "value_k": 3787000,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.01
+    },
+    {
+      "issuer": "ETORO GROUP LTD",
+      "cusip": "G32089107",
+      "class": "SHS CL A",
+      "value_k": 2810400,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.01
+    },
+    {
+      "issuer": "FIGMA INC",
+      "cusip": "316841105",
+      "class": "CLASS A COM STK",
+      "value_k": 2242200,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.01
+    },
+    {
+      "issuer": "ACCELERANT HOLDINGS",
+      "cusip": "G00894108",
+      "class": "CL A",
+      "value_k": 1226250,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.0
+    },
+    {
+      "issuer": "GEMINI SPACE STA INC",
+      "cusip": "36866J105",
+      "class": "CL A COM",
+      "value_k": 694400,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.0
+    },
+    {
+      "issuer": "MNTN INC",
+      "cusip": "55318A108",
+      "class": "CL A",
+      "value_k": 238800,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.0
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "fund": "Abrams Capital",
+  "cik": "0001358706",
+  "quarter": "2025Q4",
+  "period_end": "2025-12-31",
+  "filing_date": "2026-02-13",
+  "accession": "0001172661-26-000791",
+  "total_value_k": 5673786822,
+  "position_count": 12,
+  "holdings": [
+    {
+      "issuer": "LOAR HOLDINGS INC",
+      "cusip": "53947R105",
+      "class": "COM SHS",
+      "value_k": 2179416320,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 38.41
+    },
+    {
+      "issuer": "LITHIA MTRS INC",
+      "cusip": "536797103",
+      "class": "COM",
+      "value_k": 827679164,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 14.59
+    },
+    {
+      "issuer": "ALPHABET INC",
+      "cusip": "02079K305",
+      "class": "CAP STK CL A",
+      "value_k": 599905190,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 10.57
+    },
+    {
+      "issuer": "SOMNIGROUP INTERNATIONAL INC",
+      "cusip": "88023U101",
+      "class": "COM",
+      "value_k": 518193262,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 9.13
+    },
+    {
+      "issuer": "ASBURY AUTOMOTIVE GROUP INC",
+      "cusip": "043436104",
+      "class": "COM",
+      "value_k": 501216555,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 8.83
+    },
+    {
+      "issuer": "COUPANG INC",
+      "cusip": "22266T109",
+      "class": "CL A",
+      "value_k": 307093771,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 5.41
+    },
+    {
+      "issuer": "WILLIS TOWERS WATSON PLC LTD",
+      "cusip": "G96629103",
+      "class": "SHS",
+      "value_k": 236847979,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 4.17
+    },
+    {
+      "issuer": "META PLATFORMS INC",
+      "cusip": "30303M102",
+      "class": "CL A",
+      "value_k": 214631564,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.78
+    },
+    {
+      "issuer": "U HAUL HOLDING COMPANY",
+      "cusip": "023586506",
+      "class": "COM SER N",
+      "value_k": 151973661,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.68
+    },
+    {
+      "issuer": "ENERGY TRANSFER L P",
+      "cusip": "29273V100",
+      "class": "COM UT LTD PTN",
+      "value_k": 100843226,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.78
+    },
+    {
+      "issuer": "NUVATION BIO INC",
+      "cusip": "67080N101",
+      "class": "COM CL A",
+      "value_k": 34151156,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.6
+    },
+    {
+      "issuer": "U HAUL HOLDING COMPANY",
+      "cusip": "023586100",
+      "class": "COM",
+      "value_k": 1834974,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.03
+    }
+  ]
+}

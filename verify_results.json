@@ -1,0 +1,242 @@
+[
+  {
+    "name": "TCI Fund Management",
+    "cik": "0001647251",
+    "edgar_name": "TCI Fund Management Ltd",
+    "status": "OK",
+    "latest_13f": {
+      "form": "13F-HR",
+      "date": "2026-05-15",
+      "accession": "0001647251-26-000004"
+    },
+    "note": "9-10支；欧洲持仓(Safran/Aena)不在13F内"
+  },
+  {
+    "name": "Pershing Square",
+    "cik": "0001336528",
+    "edgar_name": "Pershing Square Capital Management, L.P.",
+    "status": "OK",
+    "latest_13f": {
+      "form": "13F-HR",
+      "date": "2026-05-15",
+      "accession": "0001172661-26-002336"
+    },
+    "note": "6-9支；每笔皆有公开thesis"
+  },
+  {
+    "name": "Akre Capital",
+    "cik": "0001112520",
+    "edgar_name": "AKRE CAPITAL MANAGEMENT LLC",
+    "status": "OK",
+    "latest_13f": {
+      "form": "13F-HR",
+      "date": "2026-05-14",
+      "accession": "0001112520-26-000009"
+    },
+    "note": "10-15支；三脚凳哲学"
+  },
+  {
+    "name": "Valley Forge Capital",
+    "cik": "0001697868",
+    "edgar_name": "Valley Forge Capital Management, LP",
+    "status": "OK",
+    "latest_13f": {
+      "form": "13F-HR",
+      "date": "2026-05-15",
+      "accession": "0001697868-26-000003"
+    },
+    "note": "9支；换手率近0%；金融基础设施专注"
+  },
+  {
+    "name": "Himalaya Capital",
+    "cik": "0001709323",
+    "edgar_name": "Himalaya Capital Management LLC",
+    "status": "OK",
+    "latest_13f": {
+      "form": "13F-HR",
+      "date": "2026-05-15",
+      "accession": "0002043585-26-000013"
+    },
+    "note": "9-14支；Munger钦点；含中概ADR视角"
+  },
+  {
+    "name": "H&H International Investment",
+    "cik": "0001759760",
+    "edgar_name": "H&H International Investment, LLC",
+    "status": "OK",
+    "latest_13f": {
+      "form": "13F-HR",
+      "date": "2026-05-19",
+      "accession": "0001759760-26-000005"
+    },
+    "note": "11支；华裔背景；含中概ADR"
+  },
+  {
+    "name": "Berkshire Hathaway",
+    "cik": "0001067983",
+    "edgar_name": "BERKSHIRE HATHAWAY INC",
+    "status": "OK",
+    "latest_13f": {
+      "form": "13F-HR",
+      "date": "2026-05-15",
+      "accession": "0001193125-26-226661"
+    },
+    "note": "40-50支；新仓信号全球关注"
+  },
+  {
+    "name": "Abrams Capital",
+    "cik": "0001358706",
+    "edgar_name": "ABRAMS CAPITAL MANAGEMENT, L.P.",
+    "status": "OK",
+    "latest_13f": {
+      "form": "13F-HR",
+      "date": "2026-05-14",
+      "accession": "0001172661-26-001966"
+    },
+    "note": "15-25支；深度价值"
+  },
+  {
+    "name": "CAS Investment Partners",
+    "cik": "0001697591",
+    "edgar_name": "CAS Investment Partners, LLC",
+    "status": "OK",
+    "latest_13f": {
+      "form": "13F-HR",
+      "date": "2026-05-15",
+      "accession": "0001697591-26-000003"
+    },
+    "note": "4-5支；极度集中；Carvana占82%"
+  },
+  {
+    "name": "Baillie Gifford",
+    "cik": "0001088875",
+    "edgar_name": "BAILLIE GIFFORD & CO",
+    "status": "OK",
+    "latest_13f": {
+      "form": "13F-HR",
+      "date": "2026-05-08",
+      "accession": "0001088875-26-000037"
+    },
+    "note": "200-300支；只追前20大或占比>1%新仓"
+  },
+  {
+    "name": "Baupost Group",
+    "cik": "0001061768",
+    "edgar_name": "BAUPOST GROUP LLC/MA",
+    "status": "OK",
+    "latest_13f": {
+      "form": "13F-HR",
+      "date": "2026-05-14",
+      "accession": "0001061768-26-000007"
+    },
+    "note": "20-35支；安全边际作者；新仓信号极重"
+  },
+  {
+    "name": "Altimeter Capital",
+    "cik": "0001541617",
+    "edgar_name": "Altimeter Capital Management, LP",
+    "status": "OK",
+    "latest_13f": {
+      "form": "13F-HR",
+      "date": "2026-05-15",
+      "accession": "0001541617-26-000006"
+    },
+    "note": "13-18支；AI基础建设最佳代理"
+  },
+  {
+    "name": "Viking Global",
+    "cik": "0001103804",
+    "edgar_name": "VIKING GLOBAL INVESTORS LP",
+    "status": "OK",
+    "latest_13f": {
+      "form": "13F-HR",
+      "date": "2026-05-15",
+      "accession": "0001103804-26-000004"
+    },
+    "note": "50-80支；Tiger系最优；只看前20大"
+  },
+  {
+    "name": "Lone Pine Capital",
+    "cik": "0001061165",
+    "edgar_name": "LONE PINE CAPITAL LLC",
+    "status": "OK",
+    "latest_13f": {
+      "form": "13F-HR",
+      "date": "2026-05-15",
+      "accession": "0000919574-26-003439"
+    },
+    "note": "30-50支；Tiger系；与Viking对比看共识"
+  },
+  {
+    "name": "Tiger Global",
+    "cik": "0001167483",
+    "edgar_name": "TIGER GLOBAL MANAGEMENT LLC",
+    "status": "OK",
+    "latest_13f": {
+      "form": "13F-HR",
+      "date": "2026-05-15",
+      "accession": "0000919574-26-003362"
+    },
+    "note": "40-60支；换手偏高；只看新仓和前10变化"
+  },
+  {
+    "name": "Whale Rock Capital",
+    "cik": "0001387322",
+    "edgar_name": "Whale Rock Capital Management LLC",
+    "status": "OK",
+    "latest_13f": {
+      "form": "13F-HR",
+      "date": "2026-05-15",
+      "accession": "0001172661-26-002159"
+    },
+    "note": "30-50支；2024年回报54%；AI/云视角"
+  },
+  {
+    "name": "Greenoaks Capital",
+    "cik": "0001840735",
+    "edgar_name": "GREENOAKS CAPITAL PARTNERS LLC",
+    "status": "OK",
+    "latest_13f": {
+      "form": "13F-HR",
+      "date": "2026-05-15",
+      "accession": "0001840735-26-000011"
+    },
+    "note": "5-15支；VC视角；私募持仓不在13F"
+  },
+  {
+    "name": "AKO Capital",
+    "cik": "0001376879",
+    "edgar_name": "AKO CAPITAL LLP",
+    "status": "OK",
+    "latest_13f": {
+      "form": "13F-HR",
+      "date": "2026-05-15",
+      "accession": "0001376879-26-000003"
+    },
+    "note": "26支；欧洲机构视角；Alcon/Visa/Flutter"
+  },
+  {
+    "name": "Sands Capital",
+    "cik": "0001846444",
+    "edgar_name": "Sands Capital Alternatives, LLC",
+    "status": "OK",
+    "latest_13f": {
+      "form": "13F-HR",
+      "date": "2026-05-08",
+      "accession": "0001846444-26-000005"
+    },
+    "note": "20-30支；高质量成长"
+  },
+  {
+    "name": "Appaloosa Management",
+    "cik": "0000934549",
+    "edgar_name": "ACACIA RESEARCH CORP",
+    "status": "OK",
+    "latest_13f": {
+      "form": "13F-HR",
+      "date": "2023-11-14",
+      "accession": "0000934549-23-000103"
+    },
+    "note": "20-40支；中概持仓28%+；追踪美系对中国看法"
+  }
+]

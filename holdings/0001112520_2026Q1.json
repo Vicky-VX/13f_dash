@@ -1,0 +1,212 @@
+{
+  "fund": "Akre Capital",
+  "cik": "0001112520",
+  "quarter": "2026Q1",
+  "period_end": "2026-03-31",
+  "filing_date": "2026-05-14",
+  "accession": "0001112520-26-000009",
+  "total_value_k": 6134537825,
+  "position_count": 20,
+  "holdings": [
+    {
+      "issuer": "MASTERCARD INCORPORATED",
+      "cusip": "57636Q104",
+      "class": "CL A",
+      "value_k": 1139777424,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 18.58
+    },
+    {
+      "issuer": "BROOKFIELD CORP",
+      "cusip": "11271J107",
+      "class": "CL A LTD VT SH",
+      "value_k": 689085823,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 11.23
+    },
+    {
+      "issuer": "KKR & CO L P DEL",
+      "cusip": "48251w104",
+      "class": "COM UNITS",
+      "value_k": 621422174,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 10.13
+    },
+    {
+      "issuer": "MOODYS CORP",
+      "cusip": "615369105",
+      "class": "COM",
+      "value_k": 543617232,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 8.86
+    },
+    {
+      "issuer": "VISA INC",
+      "cusip": "92826C839",
+      "class": "COM CL A",
+      "value_k": 495310308,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 8.07
+    },
+    {
+      "issuer": "ROPER TECHNOLOGIES INC",
+      "cusip": "776696106",
+      "class": "COM",
+      "value_k": 444884116,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 7.25
+    },
+    {
+      "issuer": "COSTAR GROUP INC",
+      "cusip": "22160N109",
+      "class": "COM",
+      "value_k": 417449333,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 6.8
+    },
+    {
+      "issuer": "FAIR ISAAC CORP",
+      "cusip": "303250104",
+      "class": "COM",
+      "value_k": 388333688,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 6.33
+    },
+    {
+      "issuer": "OREILLY AUTOMOTIVE INC",
+      "cusip": "67103H107",
+      "class": "COM",
+      "value_k": 358699398,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 5.85
+    },
+    {
+      "issuer": "COPART INC",
+      "cusip": "217204106",
+      "class": "COM",
+      "value_k": 265564742,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 4.33
+    },
+    {
+      "issuer": "AIRBNB INC",
+      "cusip": "009066101",
+      "class": "COM CL A",
+      "value_k": 256913250,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 4.19
+    },
+    {
+      "issuer": "CCC INTELLIGENT SOLUTIONS HL",
+      "cusip": "12510Q100",
+      "class": "COM",
+      "value_k": 189078420,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.08
+    },
+    {
+      "issuer": "SALESFORCE INC",
+      "cusip": "79466L302",
+      "class": "COM",
+      "value_k": 133991539,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.18
+    },
+    {
+      "issuer": "SERVICENOW INC",
+      "cusip": "81762P102",
+      "class": "COM",
+      "value_k": 114597150,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.87
+    },
+    {
+      "issuer": "GOOSEHEAD INS INC",
+      "cusip": "38267D109",
+      "class": "COM CL A",
+      "value_k": 18914804,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.31
+    },
+    {
+      "issuer": "SALESFORCE INC",
+      "cusip": "79466L302",
+      "class": "COM",
+      "value_k": 18667000,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "Call",
+      "pct": 0.3
+    },
+    {
+      "issuer": "SOPHIA GENETICS SA",
+      "cusip": "H82027105",
+      "class": "ORDINARY SHARES",
+      "value_k": 18409743,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.3
+    },
+    {
+      "issuer": "AMERICAN TOWER CORP NEW",
+      "cusip": "03027X100",
+      "class": "COM",
+      "value_k": 8762232,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.14
+    },
+    {
+      "issuer": "PERIMETER SOLUTIONS INC",
+      "cusip": "71385M107",
+      "class": "COMMON STOCK",
+      "value_k": 6105000,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.1
+    },
+    {
+      "issuer": "BERKSHIRE HATHAWAY INC DEL",
+      "cusip": "084670702",
+      "class": "CL B NEW",
+      "value_k": 4954449,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.08
+    }
+  ]
+}

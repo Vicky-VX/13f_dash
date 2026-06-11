@@ -1,0 +1,122 @@
+{
+  "fund": "Pershing Square",
+  "cik": "0001336528",
+  "quarter": "2026Q1",
+  "period_end": "2026-03-31",
+  "filing_date": "2026-05-15",
+  "accession": "0001172661-26-002336",
+  "total_value_k": 13714299861,
+  "position_count": 11,
+  "holdings": [
+    {
+      "issuer": "BROOKFIELD CORP",
+      "cusip": "11271J107",
+      "class": "CL A LTD VT SH",
+      "value_k": 2415946008,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 17.62
+    },
+    {
+      "issuer": "AMAZON COM INC",
+      "cusip": "023135106",
+      "class": "COM",
+      "value_k": 2385104083,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 17.39
+    },
+    {
+      "issuer": "UBER TECHNOLOGIES INC",
+      "cusip": "90353T100",
+      "class": "COM",
+      "value_k": 2154934398,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 15.71
+    },
+    {
+      "issuer": "MICROSOFT CORP",
+      "cusip": "594918104",
+      "class": "COM",
+      "value_k": 2092970053,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 15.26
+    },
+    {
+      "issuer": "RESTAURANT BRANDS INTL INC",
+      "cusip": "76131D103",
+      "class": "COM",
+      "value_k": 1673501194,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 12.2
+    },
+    {
+      "issuer": "META PLATFORMS INC",
+      "cusip": "30303M102",
+      "class": "CL A",
+      "value_k": 1522358404,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 11.1
+    },
+    {
+      "issuer": "HOWARD HUGHES HOLDINGS INC",
+      "cusip": "44267T102",
+      "class": "COM",
+      "value_k": 1192581569,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 8.7
+    },
+    {
+      "issuer": "SEAPORT ENTMT GROUP INC",
+      "cusip": "812215200",
+      "class": "COMMON STOCK",
+      "value_k": 107910794,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.79
+    },
+    {
+      "issuer": "ALPHABET INC",
+      "cusip": "02079K107",
+      "class": "CAP STK CL C",
+      "value_k": 89421720,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.65
+    },
+    {
+      "issuer": "HERTZ GLOBAL HLDGS INC",
+      "cusip": "42806J700",
+      "class": "COM NEW",
+      "value_k": 70261595,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.51
+    },
+    {
+      "issuer": "ALPHABET INC",
+      "cusip": "02079K305",
+      "class": "CAP STK CL A",
+      "value_k": 9310043,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.07
+    }
+  ]
+}

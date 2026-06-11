@@ -1,0 +1,252 @@
+{
+  "fund": "Lone Pine Capital",
+  "cik": "0001061165",
+  "quarter": "2025Q2",
+  "period_end": "2025-06-30",
+  "filing_date": "2025-08-14",
+  "accession": "0000902664-25-003627",
+  "total_value_k": 14051394007,
+  "position_count": 24,
+  "holdings": [
+    {
+      "issuer": "VISTRA CORP",
+      "cusip": "92840M102",
+      "class": "COM",
+      "value_k": 1253896239,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 8.92
+    },
+    {
+      "issuer": "META PLATFORMS INC",
+      "cusip": "30303M102",
+      "class": "CL A",
+      "value_k": 1228932398,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 8.75
+    },
+    {
+      "issuer": "AMAZON COM INC",
+      "cusip": "023135106",
+      "class": "COM",
+      "value_k": 1104311851,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 7.86
+    },
+    {
+      "issuer": "MICROSOFT CORP",
+      "cusip": "594918104",
+      "class": "COM",
+      "value_k": 922623923,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 6.57
+    },
+    {
+      "issuer": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "cusip": "874039100",
+      "class": "SPONSORED ADS",
+      "value_k": 778201521,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 5.54
+    },
+    {
+      "issuer": "LPL FINL HLDGS INC",
+      "cusip": "50212V100",
+      "class": "COM",
+      "value_k": 702036833,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 5.0
+    },
+    {
+      "issuer": "KKR & CO INC",
+      "cusip": "48251W104",
+      "class": "COM",
+      "value_k": 694651930,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 4.94
+    },
+    {
+      "issuer": "CAPITAL ONE FINL CORP",
+      "cusip": "14040H105",
+      "class": "COM",
+      "value_k": 655435477,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 4.66
+    },
+    {
+      "issuer": "INTUIT",
+      "cusip": "461202103",
+      "class": "COM",
+      "value_k": 607787292,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 4.33
+    },
+    {
+      "issuer": "CARVANA CO",
+      "cusip": "146869102",
+      "class": "CL A",
+      "value_k": 594832455,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 4.23
+    },
+    {
+      "issuer": "FLUTTER ENTMT PLC",
+      "cusip": "G3643J108",
+      "class": "SHS",
+      "value_k": 532303441,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.79
+    },
+    {
+      "issuer": "UNITEDHEALTH GROUP INC",
+      "cusip": "91324P102",
+      "class": "COM",
+      "value_k": 528273464,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.76
+    },
+    {
+      "issuer": "STARBUCKS CORP",
+      "cusip": "855244109",
+      "class": "COM",
+      "value_k": 509641845,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.63
+    },
+    {
+      "issuer": "SALESFORCE INC",
+      "cusip": "79466L302",
+      "class": "COM",
+      "value_k": 508070282,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.62
+    },
+    {
+      "issuer": "PHILIP MORRIS INTL INC",
+      "cusip": "718172109",
+      "class": "COM",
+      "value_k": 502258808,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.57
+    },
+    {
+      "issuer": "ASML HOLDING N V",
+      "cusip": "N07059210",
+      "class": "N Y REGISTRY SHS",
+      "value_k": 454277538,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.23
+    },
+    {
+      "issuer": "APPLOVIN CORP",
+      "cusip": "03831W108",
+      "class": "COM CL A",
+      "value_k": 441567807,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.14
+    },
+    {
+      "issuer": "EQT CORP",
+      "cusip": "26884L109",
+      "class": "COM",
+      "value_k": 438462999,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.12
+    },
+    {
+      "issuer": "BROOKFIELD CORP",
+      "cusip": "11271J107",
+      "class": "CL A LTD VT SH",
+      "value_k": 347682662,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.47
+    },
+    {
+      "issuer": "BOOKING HOLDINGS INC",
+      "cusip": "09857L108",
+      "class": "COM",
+      "value_k": 347192301,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.47
+    },
+    {
+      "issuer": "WIX COM LTD",
+      "cusip": "M98068105",
+      "class": "SHS",
+      "value_k": 342484510,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.44
+    },
+    {
+      "issuer": "TALEN ENERGY CORP",
+      "cusip": "87422Q109",
+      "class": "COM",
+      "value_k": 316759023,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.25
+    },
+    {
+      "issuer": "CARVANA CO",
+      "cusip": "146869102",
+      "class": "CL A",
+      "value_k": 129224160,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "Call",
+      "pct": 0.92
+    },
+    {
+      "issuer": "APPLOVIN CORP",
+      "cusip": "03831W108",
+      "class": "COM CL A",
+      "value_k": 110485248,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "Call",
+      "pct": 0.79
+    }
+  ]
+}

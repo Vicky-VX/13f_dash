@@ -1,0 +1,112 @@
+{
+  "fund": "TCI Fund Management",
+  "cik": "0001647251",
+  "quarter": "2026Q1",
+  "period_end": "2026-03-31",
+  "filing_date": "2026-05-15",
+  "accession": "0001647251-26-000004",
+  "total_value_k": 45170865,
+  "position_count": 10,
+  "holdings": [
+    {
+      "issuer": "GE AEROSPACE",
+      "cusip": "369604301",
+      "class": "COM NEW",
+      "value_k": 13482035,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 29.85
+    },
+    {
+      "issuer": "VISA INC",
+      "cusip": "92826C839",
+      "class": "COM CL A",
+      "value_k": 9208688,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 20.39
+    },
+    {
+      "issuer": "MOODYS CORP",
+      "cusip": "615369105",
+      "class": "COM",
+      "value_k": 6253219,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 13.84
+    },
+    {
+      "issuer": "S&P GLOBAL INC",
+      "cusip": "78409V104",
+      "class": "COM",
+      "value_k": 5969778,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 13.22
+    },
+    {
+      "issuer": "CANADIAN PACIFIC KANSAS CITY",
+      "cusip": "13646K108",
+      "class": "COM",
+      "value_k": 3659637,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 8.1
+    },
+    {
+      "issuer": "ALPHABET INC",
+      "cusip": "02079K107",
+      "class": "CAP STK CL C",
+      "value_k": 2539863,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 5.62
+    },
+    {
+      "issuer": "FERROVIAL SE",
+      "cusip": "N3168P101",
+      "class": "ORD SHS",
+      "value_k": 1327927,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.94
+    },
+    {
+      "issuer": "CANADIAN NATL RY CO",
+      "cusip": "136375102",
+      "class": "COM",
+      "value_k": 1013208,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.24
+    },
+    {
+      "issuer": "MICROSOFT CORP",
+      "cusip": "594918104",
+      "class": "COM",
+      "value_k": 1009976,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.24
+    },
+    {
+      "issuer": "ALPHABET INC",
+      "cusip": "02079K305",
+      "class": "CAP STK CL A",
+      "value_k": 706534,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.56
+    }
+  ]
+}

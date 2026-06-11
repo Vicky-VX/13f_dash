@@ -1,0 +1,262 @@
+{
+  "fund": "Lone Pine Capital",
+  "cik": "0001061165",
+  "quarter": "2025Q3",
+  "period_end": "2025-09-30",
+  "filing_date": "2025-11-14",
+  "accession": "0000902664-25-004988",
+  "total_value_k": 13742951177,
+  "position_count": 25,
+  "holdings": [
+    {
+      "issuer": "META PLATFORMS INC",
+      "cusip": "30303M102",
+      "class": "CL A",
+      "value_k": 971041299,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 7.07
+    },
+    {
+      "issuer": "VISTRA CORP",
+      "cusip": "92840M102",
+      "class": "COM",
+      "value_k": 920675297,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 6.7
+    },
+    {
+      "issuer": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "cusip": "874039100",
+      "class": "SPONSORED ADS",
+      "value_k": 852504796,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 6.2
+    },
+    {
+      "issuer": "APPLOVIN CORP",
+      "cusip": "03831W108",
+      "class": "COM CL A",
+      "value_k": 796960019,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 5.8
+    },
+    {
+      "issuer": "LPL FINL HLDGS INC",
+      "cusip": "50212V100",
+      "class": "COM",
+      "value_k": 750453491,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 5.46
+    },
+    {
+      "issuer": "PHILIP MORRIS INTL INC",
+      "cusip": "718172109",
+      "class": "COM",
+      "value_k": 748462655,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 5.45
+    },
+    {
+      "issuer": "BROOKFIELD CORP",
+      "cusip": "11271J107",
+      "class": "CL A LTD VT SH",
+      "value_k": 698236846,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 5.08
+    },
+    {
+      "issuer": "CARVANA CO",
+      "cusip": "146869102",
+      "class": "CL A",
+      "value_k": 665938377,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 4.85
+    },
+    {
+      "issuer": "MICROSOFT CORP",
+      "cusip": "594918104",
+      "class": "COM",
+      "value_k": 625996960,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 4.56
+    },
+    {
+      "issuer": "AMAZON COM INC",
+      "cusip": "023135106",
+      "class": "COM",
+      "value_k": 617415031,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 4.49
+    },
+    {
+      "issuer": "CAPITAL ONE FINL CORP",
+      "cusip": "14040H105",
+      "class": "COM",
+      "value_k": 546222397,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.97
+    },
+    {
+      "issuer": "KKR & CO INC",
+      "cusip": "48251W104",
+      "class": "COM",
+      "value_k": 530268902,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.86
+    },
+    {
+      "issuer": "BROADCOM INC",
+      "cusip": "11135F101",
+      "class": "COM",
+      "value_k": 511166513,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.72
+    },
+    {
+      "issuer": "TALEN ENERGY CORP",
+      "cusip": "87422Q109",
+      "class": "COM",
+      "value_k": 507272456,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.69
+    },
+    {
+      "issuer": "STARBUCKS CORP",
+      "cusip": "855244109",
+      "class": "COM",
+      "value_k": 470541308,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.42
+    },
+    {
+      "issuer": "EQT CORP",
+      "cusip": "26884L109",
+      "class": "COM",
+      "value_k": 455137618,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.31
+    },
+    {
+      "issuer": "FLUTTER ENTMT PLC",
+      "cusip": "G3643J108",
+      "class": "SHS",
+      "value_k": 440267344,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.2
+    },
+    {
+      "issuer": "VULCAN MATLS CO",
+      "cusip": "929160109",
+      "class": "COM",
+      "value_k": 425938035,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.1
+    },
+    {
+      "issuer": "NU HLDGS LTD",
+      "cusip": "G6683N103",
+      "class": "ORD SHS CL A",
+      "value_k": 406757248,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.96
+    },
+    {
+      "issuer": "WINGSTOP INC",
+      "cusip": "974155103",
+      "class": "COM",
+      "value_k": 375316542,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.73
+    },
+    {
+      "issuer": "AMPHENOL CORP NEW",
+      "cusip": "032095101",
+      "class": "CL A",
+      "value_k": 374124836,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.72
+    },
+    {
+      "issuer": "SEA LTD",
+      "cusip": "81141R100",
+      "class": "SPONSORD ADS",
+      "value_k": 334135914,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.43
+    },
+    {
+      "issuer": "CIENA CORP",
+      "cusip": "171779309",
+      "class": "COM NEW",
+      "value_k": 292310454,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.13
+    },
+    {
+      "issuer": "ETSY INC",
+      "cusip": "29786A106",
+      "class": "COM",
+      "value_k": 257614179,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.87
+    },
+    {
+      "issuer": "BOOKING HOLDINGS INC",
+      "cusip": "09857L108",
+      "class": "COM",
+      "value_k": 168192660,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.22
+    }
+  ]
+}

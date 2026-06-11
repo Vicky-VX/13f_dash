@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# SQLite databases (too large / local only)
+*.db
+*.db-shm
+*.db-wal
+
+# Large JSON caches (regenerated at runtime)
+bt_price_cache.json
+price_cache.json
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs
+*.log
+streamlit_out.txt

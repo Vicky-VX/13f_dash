@@ -1,0 +1,205 @@
+{
+  "version": "1.0",
+  "description": "13F基金池配置 - 22家自选机构（含CAS双CIK）",
+  "last_updated": "2026-06-05",
+  "funds": [
+    {
+      "name": "TCI Fund Management",
+      "manager": "Chris Hohn",
+      "cik": "0001647251",
+      "style": "concentrated_activist",
+      "layer": "anchor",
+      "turnover": "low",
+      "note": "9-10支；欧洲持仓(Safran/Aena)不在13F内"
+    },
+    {
+      "name": "Pershing Square",
+      "manager": "Bill Ackman",
+      "cik": "0001336528",
+      "style": "concentrated_activist",
+      "layer": "anchor",
+      "turnover": "low",
+      "note": "6-9支；每笔皆有公开thesis"
+    },
+    {
+      "name": "Akre Capital",
+      "manager": "Chuck Akre",
+      "cik": "0001112520",
+      "style": "quality_growth",
+      "layer": "anchor",
+      "turnover": "very_low",
+      "note": "10-15支；三脚凳哲学"
+    },
+    {
+      "name": "Valley Forge Capital",
+      "manager": "Dev Kantesaria",
+      "cik": "0001697868",
+      "style": "quality_value",
+      "layer": "anchor",
+      "turnover": "very_low",
+      "note": "9支；换手率近0%；金融基础设施专注"
+    },
+    {
+      "name": "Himalaya Capital",
+      "manager": "Li Lu",
+      "cik": "0001709323",
+      "style": "value_concentrated",
+      "layer": "anchor",
+      "turnover": "very_low",
+      "note": "9-14支；Munger钦点；含中概ADR视角"
+    },
+    {
+      "name": "H&H International Investment",
+      "manager": "Unknown",
+      "cik": "0001759760",
+      "style": "value_china",
+      "layer": "anchor",
+      "turnover": "low",
+      "note": "11支；华裔背景；含中概ADR"
+    },
+    {
+      "name": "Berkshire Hathaway",
+      "manager": "Warren Buffett / Greg Abel",
+      "cik": "0001067983",
+      "style": "value_quality",
+      "layer": "anchor",
+      "turnover": "very_low",
+      "note": "40-50支；新仓信号全球关注"
+    },
+    {
+      "name": "Abrams Capital",
+      "manager": "David Abrams",
+      "cik": "0001358706",
+      "style": "deep_value",
+      "layer": "anchor",
+      "turnover": "low",
+      "note": "15-25支；深度价值"
+    },
+    {
+      "name": "CAS Investment Partners",
+      "manager": "Clifford Sosin",
+      "cik": "0001697591",
+      "style": "concentrated_value",
+      "layer": "anchor",
+      "turnover": "very_low",
+      "note": "4-5支；极度集中；Carvana占82%；2026年起用此CIK"
+    },
+    {
+      "name": "CAS Investment Partners (hist)",
+      "manager": "Clifford Sosin",
+      "cik": "0001420506",
+      "style": "concentrated_value",
+      "layer": "anchor",
+      "turnover": "very_low",
+      "note": "CAS历史CIK，覆盖2025年及以前季度"
+    },
+    {
+      "name": "Baillie Gifford",
+      "manager": "Edinburgh Team",
+      "cik": "0001088875",
+      "style": "long_term_growth",
+      "layer": "rotation",
+      "turnover": "low",
+      "note": "200-300支；只追前20大或占比>1%新仓"
+    },
+    {
+      "name": "Baupost Group",
+      "manager": "Seth Klarman",
+      "cik": "0001061768",
+      "style": "deep_value",
+      "layer": "anchor",
+      "turnover": "low",
+      "note": "20-35支；安全边际作者；新仓信号极重"
+    },
+    {
+      "name": "Altimeter Capital",
+      "manager": "Brad Gerstner",
+      "cik": "0001541617",
+      "style": "tech_growth",
+      "layer": "rotation",
+      "turnover": "medium",
+      "note": "13-18支；AI基础建设最佳代理"
+    },
+    {
+      "name": "Viking Global",
+      "manager": "Andreas Halvorsen",
+      "cik": "0001103804",
+      "style": "fundamental_ls",
+      "layer": "rotation",
+      "turnover": "medium_high",
+      "note": "50-80支；Tiger系最优；只看前20大"
+    },
+    {
+      "name": "Lone Pine Capital",
+      "manager": "Steve Mandel",
+      "cik": "0001061165",
+      "style": "growth_ls",
+      "layer": "rotation",
+      "turnover": "medium",
+      "note": "30-50支；Tiger系；与Viking对比看共识"
+    },
+    {
+      "name": "Tiger Global",
+      "manager": "Chase Coleman",
+      "cik": "0001167483",
+      "style": "tech_growth",
+      "layer": "rotation",
+      "turnover": "medium_high",
+      "note": "40-60支；换手偏高；只看新仓和前10变化"
+    },
+    {
+      "name": "Whale Rock Capital",
+      "manager": "Alex Sacerdote",
+      "cik": "0001387322",
+      "style": "tech_growth",
+      "layer": "rotation",
+      "turnover": "medium",
+      "note": "30-50支；2024年回报54%；AI/云视角"
+    },
+    {
+      "name": "Greenoaks Capital",
+      "manager": "Neil Mehta",
+      "cik": "0001840735",
+      "style": "tech_concentrated",
+      "layer": "anchor",
+      "turnover": "low",
+      "note": "5-15支；VC视角；私募持仓不在13F"
+    },
+    {
+      "name": "AKO Capital",
+      "manager": "Nicolai Tangen系",
+      "cik": "0001376879",
+      "style": "quality_growth",
+      "layer": "rotation",
+      "turnover": "medium",
+      "note": "26支；欧洲机构视角；Alcon/Visa/Flutter"
+    },
+    {
+      "name": "Sands Capital",
+      "manager": "Sands Capital Team",
+      "cik": "0001846444",
+      "style": "quality_growth",
+      "layer": "anchor",
+      "turnover": "low",
+      "note": "20-30支；高质量成长"
+    },
+    {
+      "name": "Duquesne Family Office",
+      "manager": "Stanley Druckenmiller",
+      "cik": "0001536411",
+      "style": "macro_fundamental",
+      "layer": "rotation",
+      "turnover": "medium",
+      "note": "20-35支；宏观视野；追连续3季+持仓"
+    },
+    {
+      "name": "Strategy Capital",
+      "manager": "Unknown",
+      "cik": "0001592413",
+      "style": "concentrated_value",
+      "layer": "anchor",
+      "turnover": "low",
+      "note": ""
+    }
+  ]
+}

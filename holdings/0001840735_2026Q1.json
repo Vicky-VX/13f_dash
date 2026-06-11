@@ -1,0 +1,112 @@
+{
+  "fund": "Greenoaks Capital",
+  "cik": "0001840735",
+  "quarter": "2026Q1",
+  "period_end": "2026-03-31",
+  "filing_date": "2026-05-15",
+  "accession": "0001840735-26-000011",
+  "total_value_k": 2296661853,
+  "position_count": 10,
+  "holdings": [
+    {
+      "issuer": "CARVANA CO",
+      "cusip": "146869102",
+      "class": "CL A",
+      "value_k": 1321286953,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 57.53
+    },
+    {
+      "issuer": "COUPANG INC",
+      "cusip": "22266T109",
+      "class": "CL A",
+      "value_k": 485309022,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 21.13
+    },
+    {
+      "issuer": "NAVAN INC",
+      "cusip": "639193101",
+      "class": "CL A",
+      "value_k": 189985103,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 8.27
+    },
+    {
+      "issuer": "SERVICETITAN INC",
+      "cusip": "81764X103",
+      "class": "SHS CL A",
+      "value_k": 78990249,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.44
+    },
+    {
+      "issuer": "DOORDASH INC",
+      "cusip": "25809K105",
+      "class": "CL A",
+      "value_k": 75075000,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.27
+    },
+    {
+      "issuer": "KLAVIYO INC",
+      "cusip": "49845K101",
+      "class": "COM SER A",
+      "value_k": 45084850,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.96
+    },
+    {
+      "issuer": "VEEVA SYS INC",
+      "cusip": "922475108",
+      "class": "CL A COM",
+      "value_k": 43915000,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.91
+    },
+    {
+      "issuer": "FIGMA INC",
+      "cusip": "316841105",
+      "class": "CLASS A COM STK",
+      "value_k": 31710000,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.38
+    },
+    {
+      "issuer": "AMAZON COM INC",
+      "cusip": "023135106",
+      "class": "COM",
+      "value_k": 15411980,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.67
+    },
+    {
+      "issuer": "BBB FOODS INC",
+      "cusip": "G0896C103",
+      "class": "CL A COM",
+      "value_k": 9893696,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.43
+    }
+  ]
+}

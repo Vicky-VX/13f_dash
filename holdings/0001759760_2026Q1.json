@@ -1,0 +1,202 @@
+{
+  "fund": "H&H International Investment",
+  "cik": "0001759760",
+  "quarter": "2026Q1",
+  "period_end": "2026-03-31",
+  "filing_date": "2026-05-19",
+  "accession": "0001759760-26-000005",
+  "total_value_k": 20003988,
+  "position_count": 19,
+  "holdings": [
+    {
+      "issuer": "APPLE INC",
+      "cusip": "037833100",
+      "class": "COM",
+      "value_k": 7346105,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 36.72
+    },
+    {
+      "issuer": "BERKSHIRE HATHAWAY INC DEL",
+      "cusip": "084670702",
+      "class": "CL B NEW",
+      "value_k": 4383623,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 21.91
+    },
+    {
+      "issuer": "NVIDIA CORPORATION",
+      "cusip": "67066G104",
+      "class": "COM",
+      "value_k": 2414354,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 12.07
+    },
+    {
+      "issuer": "PDD HOLDINGS INC",
+      "cusip": "722304102",
+      "class": "SPONSORED ADS",
+      "value_k": 2017880,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 10.09
+    },
+    {
+      "issuer": "TESLA INC",
+      "cusip": "88160R101",
+      "class": "COM",
+      "value_k": 1267258,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 6.34
+    },
+    {
+      "issuer": "ALPHABET INC",
+      "cusip": "02079K107",
+      "class": "CAP STK CL C",
+      "value_k": 1063103,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 5.31
+    },
+    {
+      "issuer": "OCCIDENTAL PETE CORP",
+      "cusip": "674599105",
+      "class": "COM",
+      "value_k": 666997,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.33
+    },
+    {
+      "issuer": "MICROSOFT CORP",
+      "cusip": "594918104",
+      "class": "COM",
+      "value_k": 376092,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.88
+    },
+    {
+      "issuer": "UNITEDHEALTH GROUP INC",
+      "cusip": "91324P102",
+      "class": "COM",
+      "value_k": 162732,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.81
+    },
+    {
+      "issuer": "DISNEY WALT CO",
+      "cusip": "254687106",
+      "class": "COM",
+      "value_k": 145707,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.73
+    },
+    {
+      "issuer": "CREDO TECHNOLOGY GROUP HOLDI",
+      "cusip": "G25457105",
+      "class": "ORDINARY SHARES",
+      "value_k": 70515,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.35
+    },
+    {
+      "issuer": "TAIWAN SEMICONDUCTOR MANUFAC",
+      "cusip": "874039100",
+      "class": "SPONSORED ADS",
+      "value_k": 51098,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.26
+    },
+    {
+      "issuer": "CIRCLE INTERNET GROUP INC",
+      "cusip": "172573107",
+      "class": "COM CL A",
+      "value_k": 19082,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.1
+    },
+    {
+      "issuer": "PALANTIR TECHNOLOGIES INC",
+      "cusip": "69608A108",
+      "class": "CL A",
+      "value_k": 8776,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.04
+    },
+    {
+      "issuer": "SYNOPSYS INC",
+      "cusip": "871607107",
+      "class": "COM",
+      "value_k": 3964,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.02
+    },
+    {
+      "issuer": "CROWDSTRIKE HLDGS INC",
+      "cusip": "22788C105",
+      "class": "CL A",
+      "value_k": 3904,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.02
+    },
+    {
+      "issuer": "SNOWFLAKE INC",
+      "cusip": "833445109",
+      "class": "COM SHS",
+      "value_k": 1508,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.01
+    },
+    {
+      "issuer": "TEMPUS AI INC",
+      "cusip": "88023B103",
+      "class": "CL A",
+      "value_k": 904,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.0
+    },
+    {
+      "issuer": "INNODATA INC",
+      "cusip": "457642205",
+      "class": "COM NEW",
+      "value_k": 386,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.0
+    }
+  ]
+}

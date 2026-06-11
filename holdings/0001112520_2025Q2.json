@@ -1,0 +1,202 @@
+{
+  "fund": "Akre Capital",
+  "cik": "0001112520",
+  "quarter": "2025Q2",
+  "period_end": "2025-06-30",
+  "filing_date": "2025-08-14",
+  "accession": "0001112520-25-000019",
+  "total_value_k": 10210810464,
+  "position_count": 19,
+  "holdings": [
+    {
+      "issuer": "MASTERCARD INCORPORATED",
+      "cusip": "57636Q104",
+      "class": "CL A",
+      "value_k": 1851753015,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 18.14
+    },
+    {
+      "issuer": "BROOKFIELD CORP",
+      "cusip": "11271J107",
+      "class": "CL A LTD VT SH",
+      "value_k": 1188713075,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 11.64
+    },
+    {
+      "issuer": "KKR & CO L P DEL",
+      "cusip": "48251w104",
+      "class": "COM UNITS",
+      "value_k": 1176991380,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 11.53
+    },
+    {
+      "issuer": "MOODYS CORP",
+      "cusip": "615369105",
+      "class": "COM",
+      "value_k": 1156377624,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 11.33
+    },
+    {
+      "issuer": "VISA INC",
+      "cusip": "92826C839",
+      "class": "COM CL A",
+      "value_k": 1127368962,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 11.04
+    },
+    {
+      "issuer": "OREILLY AUTOMOTIVE INC",
+      "cusip": "67103H107",
+      "class": "COM",
+      "value_k": 848187653,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 8.31
+    },
+    {
+      "issuer": "ROPER TECHNOLOGIES INC",
+      "cusip": "776696106",
+      "class": "COM",
+      "value_k": 815948041,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 7.99
+    },
+    {
+      "issuer": "COSTAR GROUP INC",
+      "cusip": "22160N109",
+      "class": "COM",
+      "value_k": 748462253,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 7.33
+    },
+    {
+      "issuer": "AIRBNB INC",
+      "cusip": "009066101",
+      "class": "COM CL A",
+      "value_k": 459648979,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 4.5
+    },
+    {
+      "issuer": "DANAHER CORPORATION",
+      "cusip": "235851102",
+      "class": "COM",
+      "value_k": 350712516,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.43
+    },
+    {
+      "issuer": "AMERICAN TOWER CORP NEW",
+      "cusip": "03027X100",
+      "class": "COM",
+      "value_k": 202288334,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.98
+    },
+    {
+      "issuer": "CCC INTELLIGENT SOLUTIONS HL",
+      "cusip": "12510Q100",
+      "class": "COM",
+      "value_k": 138986904,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.36
+    },
+    {
+      "issuer": "COPART INC",
+      "cusip": "217204106",
+      "class": "COM",
+      "value_k": 58884000,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.58
+    },
+    {
+      "issuer": "GOOSEHEAD INS INC",
+      "cusip": "38267D109",
+      "class": "COM CL A",
+      "value_k": 38629849,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.38
+    },
+    {
+      "issuer": "FAIR ISAAC CORP",
+      "cusip": "303250104",
+      "class": "COM",
+      "value_k": 16722178,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.16
+    },
+    {
+      "issuer": "SOPHIA GENETICS SA",
+      "cusip": "H82027105",
+      "class": "ORDINARY SHARES",
+      "value_k": 11529334,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.11
+    },
+    {
+      "issuer": "CARMAX INC",
+      "cusip": "143130102",
+      "class": "COM",
+      "value_k": 10121826,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.1
+    },
+    {
+      "issuer": "BERKSHIRE HATHAWAY INC DEL",
+      "cusip": "084670702",
+      "class": "CL B NEW",
+      "value_k": 6793493,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.07
+    },
+    {
+      "issuer": "VERISK ANALYTICS INC",
+      "cusip": "92345Y106",
+      "class": "CL A",
+      "value_k": 2691048,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.03
+    }
+  ]
+}

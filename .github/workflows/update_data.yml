@@ -1,0 +1,44 @@
+name: Quarterly Data Update
+
+on:
+  # 每季度运行一次：1月、4月、7月、10月的第20天（13F申报截止后）
+  schedule:
+    - cron: '0 8 20 1,4,7,10 *'
+  # 允许手动触发
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch latest 13F data
+        run: python fetch_all.py
+        env:
+          PYTHONIOENCODING: utf-8
+
+      - name: Export DB to CSV
+        run: python export_data.py
+        env:
+          PYTHONIOENCODING: utf-8
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "chore: quarterly data update $(date +'%Y-%m-%d')"
+          git push

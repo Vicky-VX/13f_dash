@@ -1,0 +1,102 @@
+{
+  "fund": "TCI Fund Management",
+  "cik": "0001647251",
+  "quarter": "2025Q3",
+  "period_end": "2025-09-30",
+  "filing_date": "2025-11-14",
+  "accession": "0001647251-25-000014",
+  "total_value_k": 52699544,
+  "position_count": 9,
+  "holdings": [
+    {
+      "issuer": "GE AEROSPACE",
+      "cusip": "369604301",
+      "class": "COM NEW",
+      "value_k": 14292087,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 27.12
+    },
+    {
+      "issuer": "VISA INC",
+      "cusip": "92826C839",
+      "class": "COM CL A",
+      "value_k": 9578218,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 18.18
+    },
+    {
+      "issuer": "MICROSOFT CORP",
+      "cusip": "594918104",
+      "class": "COM",
+      "value_k": 8593932,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 16.31
+    },
+    {
+      "issuer": "MOODYS CORP",
+      "cusip": "615369105",
+      "class": "COM",
+      "value_k": 6341224,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 12.03
+    },
+    {
+      "issuer": "S&P GLOBAL INC",
+      "cusip": "78409V104",
+      "class": "COM",
+      "value_k": 5446221,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 10.33
+    },
+    {
+      "issuer": "CANADIAN PACIFIC KANSAS CITY",
+      "cusip": "13646K108",
+      "class": "COM",
+      "value_k": 3713514,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 7.05
+    },
+    {
+      "issuer": "ALPHABET INC",
+      "cusip": "02079K107",
+      "class": "CAP STK CL C",
+      "value_k": 1850205,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.51
+    },
+    {
+      "issuer": "CANADIAN NATL RY CO",
+      "cusip": "136375102",
+      "class": "COM",
+      "value_k": 1769673,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.36
+    },
+    {
+      "issuer": "FERROVIAL SE",
+      "cusip": "N3168P101",
+      "class": "ORD SHS",
+      "value_k": 1114470,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.11
+    }
+  ]
+}

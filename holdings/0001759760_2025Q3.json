@@ -1,0 +1,122 @@
+{
+  "fund": "H&H International Investment",
+  "cik": "0001759760",
+  "quarter": "2025Q3",
+  "period_end": "2025-09-30",
+  "filing_date": "2025-11-14",
+  "accession": "0001759760-25-000002",
+  "total_value_k": 14678512,
+  "position_count": 11,
+  "holdings": [
+    {
+      "issuer": "APPLE INC",
+      "cusip": "037833100",
+      "class": "COM",
+      "value_k": 8868535,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 60.42
+    },
+    {
+      "issuer": "BERKSHIRE HATHAWAY INC DEL",
+      "cusip": "084670702",
+      "class": "CL B NEW",
+      "value_k": 2609874,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 17.78
+    },
+    {
+      "issuer": "PDD HOLDINGS INC",
+      "cusip": "722304102",
+      "class": "SPONSORED ADS",
+      "value_k": 1133251,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 7.72
+    },
+    {
+      "issuer": "OCCIDENTAL PETE CORP",
+      "cusip": "674599105",
+      "class": "COM",
+      "value_k": 640525,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 4.36
+    },
+    {
+      "issuer": "ALIBABA GROUP HLDG LTD",
+      "cusip": "01609W102",
+      "class": "SPONSORED ADS",
+      "value_k": 496392,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.38
+    },
+    {
+      "issuer": "ALPHABET INC",
+      "cusip": "02079K107",
+      "class": "CAP STK CL C",
+      "value_k": 440947,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.0
+    },
+    {
+      "issuer": "MICROSOFT CORP",
+      "cusip": "594918104",
+      "class": "COM",
+      "value_k": 144611,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.99
+    },
+    {
+      "issuer": "NVIDIA CORPORATION",
+      "cusip": "67066G104",
+      "class": "COM",
+      "value_k": 111537,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.76
+    },
+    {
+      "issuer": "DISNEY WALT CO",
+      "cusip": "254687106",
+      "class": "COM",
+      "value_k": 82783,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.56
+    },
+    {
+      "issuer": "ASML HOLDING N V",
+      "cusip": "N07059210",
+      "class": "N Y REGISTRY SHS",
+      "value_k": 77447,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.53
+    },
+    {
+      "issuer": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "cusip": "874039100",
+      "class": "SPONSORED ADS",
+      "value_k": 72610,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.49
+    }
+  ]
+}

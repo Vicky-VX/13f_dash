@@ -1,0 +1,102 @@
+{
+  "fund": "TCI Fund Management",
+  "cik": "0001647251",
+  "quarter": "2025Q4",
+  "period_end": "2025-12-31",
+  "filing_date": "2026-02-17",
+  "accession": "0001647251-26-000002",
+  "total_value_k": 53648812,
+  "position_count": 9,
+  "holdings": [
+    {
+      "issuer": "GE AEROSPACE",
+      "cusip": "369604301",
+      "class": "COM NEW",
+      "value_k": 14634638,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 27.28
+    },
+    {
+      "issuer": "VISA INC",
+      "cusip": "92826C839",
+      "class": "COM CL A",
+      "value_k": 9723165,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 18.12
+    },
+    {
+      "issuer": "MICROSOFT CORP",
+      "cusip": "594918104",
+      "class": "COM",
+      "value_k": 8116088,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 15.13
+    },
+    {
+      "issuer": "MOODYS CORP",
+      "cusip": "615369105",
+      "class": "COM",
+      "value_k": 6798636,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 12.67
+    },
+    {
+      "issuer": "S&P GLOBAL INC",
+      "cusip": "78409V104",
+      "class": "COM",
+      "value_k": 6161498,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 11.48
+    },
+    {
+      "issuer": "CANADIAN PACIFIC KANSAS CITY",
+      "cusip": "13646K108",
+      "class": "COM",
+      "value_k": 3508630,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 6.54
+    },
+    {
+      "issuer": "ALPHABET INC",
+      "cusip": "02079K107",
+      "class": "CAP STK CL C",
+      "value_k": 2383881,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 4.44
+    },
+    {
+      "issuer": "FERROVIAL SE",
+      "cusip": "N3168P101",
+      "class": "ORD SHS",
+      "value_k": 1348162,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.51
+    },
+    {
+      "issuer": "CANADIAN NATL RY CO",
+      "cusip": "136375102",
+      "class": "COM",
+      "value_k": 974114,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.82
+    }
+  ]
+}

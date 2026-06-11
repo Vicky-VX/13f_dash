@@ -1,0 +1,432 @@
+{
+  "fund": "Whale Rock Capital",
+  "cik": "0001387322",
+  "quarter": "2025Q2",
+  "period_end": "2025-06-30",
+  "filing_date": "2025-08-14",
+  "accession": "0001172661-25-003481",
+  "total_value_k": 7208635970,
+  "position_count": 42,
+  "holdings": [
+    {
+      "issuer": "CELESTICA INC",
+      "cusip": "15101Q207",
+      "class": "COM",
+      "value_k": 724212243,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 10.05
+    },
+    {
+      "issuer": "NVIDIA CORPORATION",
+      "cusip": "67066G104",
+      "class": "COM",
+      "value_k": 567392489,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 7.87
+    },
+    {
+      "issuer": "META PLATFORMS INC",
+      "cusip": "30303M102",
+      "class": "CL A",
+      "value_k": 459080171,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 6.37
+    },
+    {
+      "issuer": "BROADCOM INC",
+      "cusip": "11135F101",
+      "class": "COM",
+      "value_k": 451273231,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 6.26
+    },
+    {
+      "issuer": "APPLOVIN CORP",
+      "cusip": "03831W108",
+      "class": "COM CL A",
+      "value_k": 428681362,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 5.95
+    },
+    {
+      "issuer": "ROBLOX CORP",
+      "cusip": "771049103",
+      "class": "CL A",
+      "value_k": 361049661,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 5.01
+    },
+    {
+      "issuer": "AMAZON COM INC",
+      "cusip": "023135106",
+      "class": "COM",
+      "value_k": 349485857,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 4.85
+    },
+    {
+      "issuer": "NETFLIX INC",
+      "cusip": "64110L106",
+      "class": "COM",
+      "value_k": 339079768,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 4.7
+    },
+    {
+      "issuer": "NU HLDGS LTD",
+      "cusip": "G6683N103",
+      "class": "ORD SHS CL A",
+      "value_k": 244769533,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.4
+    },
+    {
+      "issuer": "DRAFTKINGS INC NEW",
+      "cusip": "26142V105",
+      "class": "COM CL A",
+      "value_k": 228995329,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.18
+    },
+    {
+      "issuer": "SEA LTD",
+      "cusip": "81141R100",
+      "class": "SPONSORD ADS",
+      "value_k": 225434790,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 3.13
+    },
+    {
+      "issuer": "DUOLINGO INC",
+      "cusip": "26603R106",
+      "class": "CL A COM",
+      "value_k": 200409166,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.78
+    },
+    {
+      "issuer": "CARVANA CO",
+      "cusip": "146869102",
+      "class": "CL A",
+      "value_k": 196383995,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.72
+    },
+    {
+      "issuer": "FABRINET",
+      "cusip": "G3323L100",
+      "class": "SHS",
+      "value_k": 186880752,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.59
+    },
+    {
+      "issuer": "SEMTECH CORP",
+      "cusip": "816850101",
+      "class": "COM",
+      "value_k": 180192019,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.5
+    },
+    {
+      "issuer": "MERCADOLIBRE INC",
+      "cusip": "58733R102",
+      "class": "COM",
+      "value_k": 163513920,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 2.27
+    },
+    {
+      "issuer": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "cusip": "874039100",
+      "class": "SPONSORED ADS",
+      "value_k": 137218287,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.9
+    },
+    {
+      "issuer": "KLAVIYO INC",
+      "cusip": "49845K101",
+      "class": "COM SER A",
+      "value_k": 123723663,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.72
+    },
+    {
+      "issuer": "COUPANG INC",
+      "cusip": "22266T109",
+      "class": "CL A",
+      "value_k": 106584617,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.48
+    },
+    {
+      "issuer": "MONDAY COM LTD",
+      "cusip": "M7S64H106",
+      "class": "SHS",
+      "value_k": 103551974,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.44
+    },
+    {
+      "issuer": "TTM TECHNOLOGIES INC",
+      "cusip": "87305R109",
+      "class": "COM",
+      "value_k": 98931148,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.37
+    },
+    {
+      "issuer": "CORNING INC",
+      "cusip": "219350105",
+      "class": "COM",
+      "value_k": 98622343,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.37
+    },
+    {
+      "issuer": "IMPINJ INC",
+      "cusip": "453204109",
+      "class": "COM",
+      "value_k": 98418905,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.37
+    },
+    {
+      "issuer": "MICROSOFT CORP",
+      "cusip": "594918104",
+      "class": "COM",
+      "value_k": 97333189,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.35
+    },
+    {
+      "issuer": "COHERENT CORP",
+      "cusip": "19247G107",
+      "class": "COM",
+      "value_k": 89940184,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.25
+    },
+    {
+      "issuer": "AFFIRM HLDGS INC",
+      "cusip": "00827B106",
+      "class": "COM CL A",
+      "value_k": 88155021,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.22
+    },
+    {
+      "issuer": "MONGODB INC",
+      "cusip": "60937P106",
+      "class": "CL A",
+      "value_k": 88104034,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.22
+    },
+    {
+      "issuer": "SITIME CORP",
+      "cusip": "82982T106",
+      "class": "COM",
+      "value_k": 85829689,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.19
+    },
+    {
+      "issuer": "VERTIV HOLDINGS CO",
+      "cusip": "92537N108",
+      "class": "COM CL A",
+      "value_k": 84362417,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.17
+    },
+    {
+      "issuer": "HUBSPOT INC",
+      "cusip": "443573100",
+      "class": "COM",
+      "value_k": 83074801,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.15
+    },
+    {
+      "issuer": "JFROG LTD",
+      "cusip": "M6191J100",
+      "class": "ORD SHS",
+      "value_k": 75197419,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 1.04
+    },
+    {
+      "issuer": "INTUIT",
+      "cusip": "461202103",
+      "class": "COM",
+      "value_k": 68656132,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.95
+    },
+    {
+      "issuer": "CIENA CORP",
+      "cusip": "171779309",
+      "class": "COM NEW",
+      "value_k": 67979518,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.94
+    },
+    {
+      "issuer": "BLOOM ENERGY CORP",
+      "cusip": "093712107",
+      "class": "COM CL A",
+      "value_k": 48568340,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.67
+    },
+    {
+      "issuer": "CHIME FINL INC",
+      "cusip": "16935C109",
+      "class": "COM SHS CL A",
+      "value_k": 48261062,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.67
+    },
+    {
+      "issuer": "OKTA INC",
+      "cusip": "679295105",
+      "class": "CL A",
+      "value_k": 43472354,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.6
+    },
+    {
+      "issuer": "HEWLETT PACKARD ENTERPRISE C",
+      "cusip": "42824C109",
+      "class": "COM",
+      "value_k": 39018948,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.54
+    },
+    {
+      "issuer": "SILICON LABORATORIES INC",
+      "cusip": "826919102",
+      "class": "COM",
+      "value_k": 36586836,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.51
+    },
+    {
+      "issuer": "ENTEGRIS INC",
+      "cusip": "29362U104",
+      "class": "COM",
+      "value_k": 33883323,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.47
+    },
+    {
+      "issuer": "SUPER MICRO COMPUTER INC",
+      "cusip": "86800U302",
+      "class": "COM NEW",
+      "value_k": 27274996,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.38
+    },
+    {
+      "issuer": "ALKAMI TECHNOLOGY INC",
+      "cusip": "01644J108",
+      "class": "COM",
+      "value_k": 20071582,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.28
+    },
+    {
+      "issuer": "HINGE HEALTH INC",
+      "cusip": "433313103",
+      "class": "CL A",
+      "value_k": 8980902,
+      "shares": 0,
+      "sh_type": "",
+      "put_call": "",
+      "pct": 0.12
+    }
+  ]
+}

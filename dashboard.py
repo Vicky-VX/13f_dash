@@ -1092,7 +1092,8 @@ def tab_thesis(df: pd.DataFrame, ct: dict, quarters: list[str]):
 
 # ── Tab 1: 回测分析 ───────────────────────────────────────────────────────────
 
-BT_DB = Path("backtest.db")
+BT_DB    = Path("backtest.db")
+USE_BT_CSV = not BT_DB.exists() and (DATA_DIR / "bt_fund_results.csv").exists()
 
 RECOMMEND_STYLE = {
     "★★★★ 强烈推荐":     ("background:#f0fdf4; color:#16a34a; border:1px solid #bbf7d0;",  "🟢"),
@@ -1103,6 +1104,12 @@ RECOMMEND_STYLE = {
 
 @st.cache_data(ttl=1800)
 def load_bt_fund_results() -> pd.DataFrame:
+    if USE_BT_CSV:
+        try:
+            df = pd.read_csv(DATA_DIR / "bt_fund_results.csv")
+            return df.sort_values("end_alpha_1y", ascending=False, na_position="last")
+        except Exception:
+            return pd.DataFrame()
     if not BT_DB.exists():
         return pd.DataFrame()
     conn = sqlite3.connect(str(BT_DB))
@@ -1115,6 +1122,12 @@ def load_bt_fund_results() -> pd.DataFrame:
 
 @st.cache_data(ttl=1800)
 def load_bt_quarter_results(cik: str) -> pd.DataFrame:
+    if USE_BT_CSV:
+        try:
+            df = pd.read_csv(DATA_DIR / "bt_quarter_results.csv")
+            return df[df["cik"] == cik].sort_values("quarter")
+        except Exception:
+            return pd.DataFrame()
     if not BT_DB.exists():
         return pd.DataFrame()
     conn = sqlite3.connect(str(BT_DB))
@@ -1129,7 +1142,7 @@ def load_bt_quarter_results(cik: str) -> pd.DataFrame:
 
 
 def tab_backtest():
-    if not BT_DB.exists():
+    if not BT_DB.exists() and not USE_BT_CSV:
         st.info("backtest.db 不存在，请先运行：`python backtest.py --all`")
         return
 

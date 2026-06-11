@@ -13,7 +13,8 @@ BASE = Path(__file__).parent
 DATA = BASE / "data"
 DATA.mkdir(exist_ok=True)
 
-DB_PATH = BASE / "holdings.db"
+DB_PATH    = BASE / "holdings.db"
+BT_DB_PATH = BASE / "backtest.db"
 
 
 def export_table(conn, table: str, path: Path):
@@ -51,6 +52,16 @@ def main():
     print("Copying JSON caches...")
     for fname in ["cusip_ticker_cache.json", "sector_cache.json"]:
         export_json_file(BASE / fname, DATA / fname)
+
+    if BT_DB_PATH.exists():
+        print("\nExporting backtest.db tables...")
+        bt_conn = sqlite3.connect(str(BT_DB_PATH))
+        export_table(bt_conn, "bt_fund_results",    DATA / "bt_fund_results.csv")
+        export_table(bt_conn, "bt_quarter_results", DATA / "bt_quarter_results.csv")
+        export_table(bt_conn, "bt_holdings",        DATA / "bt_holdings.csv")
+        bt_conn.close()
+    else:
+        print(f"\nSkipping backtest.db (not found)")
 
     print(f"\nDone. Files in {DATA}/")
     for f in sorted(DATA.iterdir()):

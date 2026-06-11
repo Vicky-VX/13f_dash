@@ -1146,9 +1146,11 @@ def load_bt_quarter_results(cik: str) -> pd.DataFrame:
 
 
 def tab_backtest():
-    has_data = BT_DB.exists() or (DATA_DIR / "bt_fund_results.csv").exists()
+    csv_path = DATA_DIR / "bt_fund_results.csv"
+    has_data = BT_DB.exists() or csv_path.exists()
     if not has_data:
-        st.info("backtest.db 不存在，请先运行：`python backtest.py --all`")
+        import os
+        st.info(f"回测数据未找到（cwd={os.getcwd()}, csv={csv_path.resolve()}, exists={csv_path.exists()}）")
         return
 
     fund_df = load_bt_fund_results()

@@ -2,22 +2,22 @@ cik,name,manager,style,layer
 0001647251,TCI Fund Management,Chris Hohn,concentrated_activist,anchor
 0001336528,Pershing Square,Bill Ackman,concentrated_activist,anchor
 0001112520,Akre Capital,Chuck Akre,quality_growth,anchor
+0001697868,Valley Forge Capital,Dev Kantesaria,quality_value,anchor
+0001709323,Himalaya Capital,Li Lu,value_concentrated,anchor
+0001759760,H&H International Investment,Unknown,value_china,anchor
 0001067983,Berkshire Hathaway,Warren Buffett / Greg Abel,value_quality,anchor
 0001358706,Abrams Capital,David Abrams,deep_value,anchor
+0001697591,CAS Investment Partners,Clifford Sosin,concentrated_value,anchor
+0001420506,CAS Investment Partners (hist),Clifford Sosin,concentrated_value,anchor
 0001088875,Baillie Gifford,Edinburgh Team,long_term_growth,rotation
+0001061768,Baupost Group,Seth Klarman,deep_value,anchor
+0001541617,Altimeter Capital,Brad Gerstner,tech_growth,rotation
 0001103804,Viking Global,Andreas Halvorsen,fundamental_ls,rotation
 0001061165,Lone Pine Capital,Steve Mandel,growth_ls,rotation
 0001167483,Tiger Global,Chase Coleman,tech_growth,rotation
 0001387322,Whale Rock Capital,Alex Sacerdote,tech_growth,rotation
 0001840735,Greenoaks Capital,Neil Mehta,tech_concentrated,anchor
-0001536411,Duquesne Family Office,Stanley Druckenmiller,macro_fundamental,rotation
-0001592413,Strategy Capital,Unknown,concentrated_value,anchor
-0001697868,Valley Forge Capital,Dev Kantesaria,quality_value,anchor
-0001709323,Himalaya Capital,Li Lu,value_concentrated,anchor
-0001759760,H&H International Investment,Unknown,value_china,anchor
-0001697591,CAS Investment Partners,Clifford Sosin,concentrated_value,anchor
-0001420506,CAS Investment Partners (hist),Clifford Sosin,concentrated_value,anchor
-0001061768,Baupost Group,Seth Klarman,deep_value,anchor
-0001541617,Altimeter Capital,Brad Gerstner,tech_growth,rotation
 0001376879,AKO Capital,Nicolai Tangen系,quality_growth,rotation
 0001846444,Sands Capital,Sands Capital Team,quality_growth,anchor
+0001536411,Duquesne Family Office,Stanley Druckenmiller,macro_fundamental,rotation
+0001592413,Strategy Capital,Unknown,concentrated_value,anchor
